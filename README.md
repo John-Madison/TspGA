@@ -8,4 +8,4 @@ This program can take a random path like this:
 
 And via evolution turn it into this:
 https://github.com/John-Madison/TspGA/blob/master/src/doc/running.png
-![alt Starting Screen Shot](https://github.com/John-Madison/TspGA/blob/master/src/doc/runningt.png)
+![alt Starting Screen Shot](https://github.com/John-Madison/TspGA/blob/master/src/doc/running.png)
